@@ -34,9 +34,11 @@ TECH STACK
 
 Ratings and Reviews: 
 Overall Component
+
 ![1675971627578](https://user-images.githubusercontent.com/34527037/221379097-399096ef-0103-441a-834b-9e84e5bccf1b.jpeg)
 
 Adding Reviews Component
+
 ![1675971627624](https://user-images.githubusercontent.com/34527037/221379099-67f00f2c-8ee1-4b77-b0d2-a1571dc4111f.jpeg)
 
 1.3 Q & A
